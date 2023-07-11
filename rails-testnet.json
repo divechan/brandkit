@@ -3,18 +3,18 @@
 		"title": "Rails Network",
 		"url": "https://blockscout.com/eth/mainnet",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
+		"icon": "https://raw.githubusercontent.com/divechan/brandkit/main/SVGs/railslogoonlyblue.svg"
 	},
 	{
 		"title": "Rails Network Testnet",
 		"url": "https://blockscout.com/etc/mainnet",
 		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum-classic.svg"
+		"icon": "https://raw.githubusercontent.com/divechan/brandkit/main/SVGs/railslogoonlyblue.svg"
 	},
     {
 		"title": "Rails Network Sandbox",
 		"url": "https://blockscout.com/etc/mainnet",
 		"group": "Other",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum-classic.svg"
+		"icon": "https://raw.githubusercontent.com/divechan/brandkit/main/SVGs/railslogoonlyblue.svg"
 	}
 ]
