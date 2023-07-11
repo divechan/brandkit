@@ -1,0 +1,14 @@
+[
+	{
+		"title": "Rails Network",
+		"url": "https://mainnet.steamexchange.io",
+		"group": "Mainnet",
+		"icon": "https://raw.githubusercontent.com/divechan/brandkit/main/SVGs/railslogoonlyblue.svg"
+	},
+	{
+		"title": "Rails Network Testnet",
+		"url": "https://test.steamexchange.io",
+		"group": "Testnet",
+		"icon": "https://raw.githubusercontent.com/divechan/brandkit/main/SVGs/railslogoonlyblue.svg"
+	}
+]
