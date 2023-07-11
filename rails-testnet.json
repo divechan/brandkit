@@ -1,13 +1,13 @@
 [
 	{
 		"title": "Rails Network",
-		"url": "https://blockscout.com/eth/mainnet",
+		"url": "https://rails.steamexchange.io",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/divechan/brandkit/main/SVGs/railslogoonlyblue.svg"
 	},
 	{
 		"title": "Rails Network Testnet",
-		"url": "https://blockscout.com/etc/mainnet",
+		"url": "https://testnet.steamexchange.io",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/divechan/brandkit/main/SVGs/railslogoonlyblue.svg"
 	},
