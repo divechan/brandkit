@@ -1,14 +1,15 @@
 [
 	{
 		"title": "Rails Network",
-		"url": "https://mainnet.steamexchange.io",
-		"group": "Mainnet",
-		"icon": "https://raw.githubusercontent.com/divechan/brandkit/main/SVGs/railslogoonlyblue.svg"
+		"url": "https://blockscout.com/eth/mainnet",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
 	},
 	{
-		"title": "Rails Network Testnet",
-		"url": "https://test.steamexchange.io",
-		"group": "Testnet",
-		"icon": "https://raw.githubusercontent.com/divechan/brandkit/main/SVGs/railslogoonlyblue.svg"
+		"title": "Ethereum Classic",
+		"url": "https://blockscout.com/etc/mainnet",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum-classic.svg"
+	
 	}
 ]
