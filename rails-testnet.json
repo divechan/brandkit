@@ -1,19 +1,19 @@
 [
 	{
 		"title": "Rails Network",
-		"url": "https://rails.steamexchange.io",
+		"url": "https://explore.steamexchange.io",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/divechan/brandkit/main/SVGs/mainnet.svg"
 	},
 	{
 		"title": "Rails Network Testnet",
-		"url": "https://testnet.steamexchange.io",
+		"url": "https://build.steamexchange.io",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/divechan/brandkit/main/SVGs/testnet.svg"
 	},
     {
-		"title": "Rails Network Sandbox",
-		"url": "https://blockscout.com/etc/mainnet",
+		"title": "Rails Network Sandbox - coming soon",
+		"url": "https://steamexchange.io",
 		"group": "Other",
 		"icon": "https://raw.githubusercontent.com/divechan/brandkit/main/SVGs/sandbox.svg"
 	}
