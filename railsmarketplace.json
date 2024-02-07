@@ -41,17 +41,4 @@
 		"internalWallet": true,
 		"priority": 4
 	},
-	{
-		"author": "dYdX",
-		"id": "dydx",
-		"title": "dYdX",
-		"logo": "https://blockscout-content.s3.amazonaws.com/dydx.png",
-		"categories": ["DeFi"],
-		"external": true,
-		"shortDescription": "dYdX is a leading decentralized exchange that currently supports perpetual trading. dYdX runs on smart contracts on the Ethereum blockchain, and allows users to trade with no intermediaries.",
-		"site": "https://help.dydx.exchange/en/articles/3047379-introduction-and-overview",
-		"description": "dYdX is a leading decentralized exchange that currently supports perpetual trading. dYdX runs on smart contracts on the Ethereum blockchain, and allows users to trade with no intermediaries.",
-		"url": "https://trade.stage.dydx.exchange/portfolio/overview",
-		"internalWallet": false
-	},
 ]
