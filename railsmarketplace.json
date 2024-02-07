@@ -1,0 +1,44 @@
+[
+		{
+		"author": "Blockscout",
+		"id": "token-approval-tracker",
+		"title": "Token Approval Tracker",
+		"logo": "https://blockscout-content.s3.amazonaws.com/token-approval.png",
+		"categories": ["Infra & Dev tooling"],
+		"shortDescription": "Token Approval Tracker shows all approvals for any ERC20-compliant tokens and NFTs and lets to revoke them or adjust the approved amount.",
+		"site": "https://docs.blockscout.com/for-users/blockscout-apps/token-approval-tracker",
+		"description": "Token Approval Tracker shows all approvals for any ERC20-compliant tokens and NFTs and lets to revoke them or adjust the approved amount.",
+		"external": false,
+		"url": "https://approval-tracker.apps.blockscout.com/",
+		"internalWallet": false,
+		"priority": 0
+	},
+	{
+		"author": "Revoke",
+		"id": "revoke.cash",
+		"title": "Revoke.cash",
+		"logo": "https://blockscout-content.s3.amazonaws.com/revokecash.png",
+		"categories": ["Infra & Dev tooling"],
+		"shortDescription": "Revoke.cash comes in as a preventative tool to manage your token allowances and practice proper wallet hygiene. By regularly revoking active allowances you reduce the chances of becoming the victim of allowance exploits.",
+		"site": "https://revoke.cash/about",
+		"external": false,
+		"description": "Revoke.cash comes in as a preventative tool to manage your token allowances and practice proper wallet hygiene. By regularly revoking active allowances you reduce the chances of becoming the victim of allowance exploits.",
+		"url": "https://revoke.cash/",
+		"internalWallet": true,
+		"priority": 2
+	},
+	{
+		"author": "Aave",
+		"id": "aave",
+		"title": "Aave",
+		"logo": "https://blockscout-content.s3.amazonaws.com/aave.png",
+		"categories": ["DeFi"],
+		"shortDescription": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
+		"site": "https://docs.aave.com/faq/",
+		"external": false,
+		"description": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
+		"url": "https://staging.aave.com/",
+		"internalWallet": true,
+		"priority": 4
+	},
+]
