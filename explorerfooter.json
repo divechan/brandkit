@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Steam Exchange",
+    "links": [
+      {
+        "text": "Home",
+        "url": "https:/steamexchange.io/"
+      },
+      {
+        "text": "Whitepaper",
+        "url": "https://docs.steamexchange.io/steam-exchange-whitepaper/"
+      }
+    ]
+  },
+  {
+    "title": "Rails Network",
+    "links": [
+      {
+        "text": "Documentation",
+        "url": "https://steam-exchange.gitbook.io/rails-network//"
+      },
+      {
+        "text": "Depot",
+        "url": "https://depot.steamexchange.io/"
+      },
+      {
+        "text": "Swap",
+        "url": "https://swap.steamexchange.io/"
+      }
+    ]
+  },
+  {
+    "title": "Community",
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/qD4YqBaEN2"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/Steam_Exchange"
+      },
+      {
+        "text": "Telegram",
+        "url": "https://t.me/SteamXchangeOfficial"
+      },
+      {
+        "text": "Youtube",
+        "url": "https://www.youtube.com/channel/UC8xL6IB_C51G2GuvYLZJexw"
+      }
+    ]
+  }
+]
