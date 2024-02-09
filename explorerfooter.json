@@ -3,7 +3,7 @@
     "title": "Steam Exchange",
     "links": [
       {
-        "text": "Home",
+        "text": "Website",
         "url": "https:/steamexchange.io/"
       },
       {
@@ -43,6 +43,10 @@
       {
         "text": "Telegram",
         "url": "https://t.me/SteamXchangeOfficial"
+      },
+      {
+        "text": "Forum Board",
+        "url": "https://forum.steamexchange.io"
       },
       {
         "text": "Youtube",
