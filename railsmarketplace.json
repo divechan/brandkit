@@ -10,7 +10,7 @@
     		"external": false,
     		"categories": ["Bridges", "Dev tooling", "Swaps"],
     		"logo": "https://blockscout-content.s3.amazonaws.com/rails-network-depot.jpg"
-		"priority": 4
+		"priority": 1
   	},
 	{
 		"author": "Blockscout",
@@ -52,7 +52,7 @@
 		"description": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
 		"url": "https://staging.aave.com/",
 		"internalWallet": true,
-		"priority": 1
+		"priority": 4
 	},
 	{
 		"author": "LooksRare",
