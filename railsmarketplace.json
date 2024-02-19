@@ -10,7 +10,7 @@
     		"external": false,
     		"categories": ["Bridges", "Dev tooling", "Swaps"],
     		"logo": "https://blockscout-content.s3.amazonaws.com/rails-network-depot.jpg"
-		"priority": 1
+		"priority": 4
   	},
 	{
 		"author": "Blockscout",
