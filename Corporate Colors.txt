@@ -1,0 +1,4 @@
+Logo colors:
+#d28a1e (our orange for all accents like buttons, toggles, hover over, etc)
+#0c1d31 (dark blue for background, linear gradient start)
+#1f4a7d (light blue for accents, linear gradient end)
